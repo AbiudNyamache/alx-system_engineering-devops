@@ -1,2 +1,2 @@
 #!/bin/bash
-rm *~rather
+mv [[:upper:]]* /tmp/u
